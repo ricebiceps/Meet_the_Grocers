@@ -1,4 +1,4 @@
-# Physical activity curation for physicaly impaired
+# Physical activity curation for physically impaired
 Pros:
 * More diverse, more inclusive
 * Achieves a health goal 
