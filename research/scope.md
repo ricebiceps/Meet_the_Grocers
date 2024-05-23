@@ -56,7 +56,7 @@
    </td>
    <td>Zaid & Park
    </td>
-   <td>25th of May
+   <td>27th of May
    </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
    </td>
    <td>Zaid & Park
    </td>
-   <td>27th of May
+   <td>31st of May
    </td>
   </tr>
 </table>
