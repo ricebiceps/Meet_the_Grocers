@@ -14,3 +14,9 @@ Pros:
 
 Cons:
 * Smaller scope
+
+# Hotel
+
+Pros:
+* Practical
+* Data avilable

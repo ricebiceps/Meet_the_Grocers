@@ -3,7 +3,7 @@
 2. Web scraping 
 
 ## Website
-* Looking like domain ownership required to use advanced website indexing - not so plausible for grocery website domains (we do not own those domains)
+* Looking like domain ownership required to use advanced website indexing - not so plausible for hotel website domains (we do not own those domains)
 
 ## Web Scraping 
 * Looking more viable - would need a script that scrapes data off these websites Zied determined

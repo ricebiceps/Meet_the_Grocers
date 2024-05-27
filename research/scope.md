@@ -2,19 +2,16 @@
 
 
 
-* Optimize the client’s grocery shopping expenses based on vendor, quality, and time.
+* Optimize the client’s hotel expenses based on quality, and time.
 
 # Project scope:
 
 
 
-* Location: Downtown Toronto
-* Supermarkets: Anything with a website
+* Location: Canada
+* Hotels: Anything with a website
 * Differentiate pricing tiers
 * Accept both individual item inputs and list input
-* Allows for different supermarkets in one trip
-    * Include gas price (if driving)
-    * Includes travel time
 
 # Project Steps:
 

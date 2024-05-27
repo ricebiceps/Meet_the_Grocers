@@ -1,4 +1,4 @@
-# Meet_the_Grocers
+# Meet_the_Hoteliers
 
-![Grocery](images/grocery.jpg)
+![Hotel](images/hotel.jpg)
 This is our submission to the Google Vertex AI Agent Builder hackathon. 
